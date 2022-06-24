@@ -2,7 +2,7 @@
 include:
     - project: "epi2melabs/ci-templates"
       file: "wf-containers.yaml"
-      ref: "sam"
+      ref: "cw-765b"
 
 variables:
     # Workflow inputs given to nextflow.
